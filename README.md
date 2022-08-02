@@ -1,7 +1,7 @@
 # Isingpy
 
 ## Discription
-A python implement for **ising model** and **metropolis algorithm** in the book <a href="https://www.cambridge.org/highereducation/books/introduction-to-computational-materials-science/327CCEC340E5C466CE08D6A6FD8520E1#overview" >introduction to computational materials science</a>
+A python implement for **ising model** and **metropolis algorithm** in the book <a href="https://www.cambridge.org/highereducation/books/introduction-to-computational-materials-science/327CCEC340E5C466CE08D6A6FD8520E1#overview" >introduction to computational materials science</a>(Chapter 7)
 
 ## Usage
 + Install the nessary dependancies
